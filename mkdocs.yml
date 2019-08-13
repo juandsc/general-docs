@@ -1,4 +1,5 @@
 site_name: My Docs
 nav:
     - Home: index.md
+    - Otra Secion: seccion2.md
 theme: readthedocs
