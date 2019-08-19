@@ -1,5 +1,10 @@
 site_name: My Docs
 nav:
     - Home: index.md
-    - Otra Secion: seccion2.md
+    - Python: python/virtual-environment.md
+    - Docker: 
+        - Installation: docker/docker-installation.md
+    - VSCode:
+        - Configuration: vscode/configuration.md
+    
 theme: readthedocs

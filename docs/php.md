@@ -7,5 +7,3 @@
     `php -S localhost:9090 public/index.ph`
 
     El puerto puede ser modificado según se requiera.
-
-
